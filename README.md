@@ -14,3 +14,5 @@ pip install -r requirements.txt
 ```
 
 # How to connect MongoDB with Python
+[connect MongoDB via Python](https://www.mongodb.com/languages/python)  
+
